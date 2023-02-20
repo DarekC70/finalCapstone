@@ -19,10 +19,11 @@
         <li>hq - Shoe with the highest quantity ==> it has to sel</li><br />
   </ul>
         
- Option so - Read shoe data/create shoe object - This function open the file<br />
+ <ul>Option so - Read shoe data/create shoe object - This function open the file<br />
             inventory.txt and read the data from this file, then create<br /> a
             shoes object with this data and append this object into the<br />
             shoes list.<br />
+  </ul>
 Option cds - Capture data shoe - This function allow a user to capture<br />
             data about a shoe and use this data to create a shoe object<br />
              and append this object inside the shoe list.<br />
