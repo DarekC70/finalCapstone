@@ -55,6 +55,6 @@ have not yet been completed and are overdue<br/>
 <p>Option: ds - display statistics - The option only for the administrator - the menu option that allows to display statistics so that<br/>
 the reports generated are read from task_overview.txt and user_overview.txt and displayed on the screen<br/>
      <br/>
-     <h3> Using file requariments:</h3>
+     <h3> Requirements to run the project:</h3>
      <li>The python 3 package</li><br/>
      <li>the download of the files: tasks.txt and user.txt</li><br/>
