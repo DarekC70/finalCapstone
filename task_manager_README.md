@@ -11,7 +11,7 @@ The file uses the tasks.txt and user.txt- text files:
     This information is used in projcet.<br/>
   <ul/>
      <br/>
- menu in the task_manager_complete file:
+ menu in the task_manager_complete file:<br/>
 <ul>
     <li> r - Registering a user </li><br/>
      <li> a - Adding a task </li><br/>
