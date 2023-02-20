@@ -20,4 +20,6 @@ The file uses the tasks.txt and user.txt- text files:
      <li> gr - generate raports </li><br/>
      <li> ds - display statistics </li><br/>
      </ul><br/>
-<p>Option r - Registering a user The option only for the administrator, allows you to register the user (saving to the user.txt file)</p><br/>
+<p>Option r - Registering a user - The option only for the administrator - allows user registration (saving to the user.txt file)</p><br/>
+<p>Option a - Adding a task The option only for the administrator - allows task registration (saving to the tasks.txt file)</p><br/>
+<p>Option va - View all tasks - The option for all users - It allows to display all tasks registered in the tasks.txt file</p><br/>
