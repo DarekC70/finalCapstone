@@ -7,7 +7,7 @@
   <li>The project was made using object-oriented programming (OOP) in python</li><br />
   <li>The main file used in the project is inventory complete.py.</li><br />
 <li>The file uses the inventory.txt - text file:<br />
-  <li>Country, Code, Product, Cost, Quantity</li><br />
+  Country, Code, Product, Cost, Quantity<br />
   This information is used in projcet.</li><br />
 <li>menu in the inventory file:</li><br />
 </ol>
