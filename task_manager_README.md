@@ -57,4 +57,4 @@ the reports generated are read from task_overview.txt and user_overview.txt and 
      <br/>
      <h3> Requirements to run the project:</h3>
      <li>The python 3 package</li><br/>
-     <li>the download of the files: tasks.txt and user.txt</li><br/>
+     <li>the download of the files: task_manager_complete.py, tasks.txt and user.txt</li><br/>
