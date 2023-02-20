@@ -47,4 +47,8 @@
 <ul>Option  hq - Shoe with the highest quantity ==> it has to sel - highest_qty - This functino determine the product with <br />the
               highest quantity and print recommendations  "for sale"<br />
   </ul>
+  
+   <h3> Requirements to run the project:</h3>
+     <li>The python 3 package</li><br/>
+     <li>the download of the files: inventory complete.py, inventory.txt
               
