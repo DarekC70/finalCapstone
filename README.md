@@ -3,7 +3,7 @@
 # Project name : "inventory"
 # The aim of the project is to provide a shoe wholesaler service
 ***The project:
-1/ The project was made using object-oriented programming (OOP) in pyth;on
+1/ The project was made using object-oriented programming (OOP) in python
 2/ The main file used in the project is inventory complete.py.
 3/ The file uses the inventory.txt - text file:
   Country, Code, Product, Cost, Quantity
