@@ -28,27 +28,28 @@ The file uses the tasks.txt and user.txt- text files:
   <li>task_overview.txt which contain:</li><br/>
 <ul>
 ▪ The total number of tasks that have been generated and
-tracked using the task_manager.py.
-▪ The total number of completed tasks.
-▪ The total number of uncompleted tasks.
+tracked using the task_manager.py.<br/>
+▪ The total number of completed tasks.<br/>
+▪ The total number of uncompleted tasks.<br/>
 ▪ The total number of tasks that haven’t been completed and
-that are overdue
-     The percentage of tasks that are incomplete.
-▪ The percentage of tasks that are overdue.
+that are overdue<br/>
+     The percentage of tasks that are incomplete.<br/>
+▪ The percentage of tasks that are overdue.<br/>
      </ul> <br/>
 <li> user_overview.txt should contain:</li><br/>
  <ul>
-▪ The total number of users registered with task_manager.py.
+▪ The total number of users registered with task_manager.py.<br/>
 ▪ The total number of tasks that have been generated and
-tracked using task_manager.py.
-▪ For each user also describe:
-▪ The total number of tasks assigned to that user.
+tracked using task_manager.py.<br/>
+For each user also describe:<br/>
+▪ The total number of tasks assigned to that user.<br/>
 ▪ The percentage of the total number of tasks that have
-been assigned to that user
+been assigned to that user<br/>
 ▪ The percentage of the tasks assigned to that user that
-have been completed
+have been completed<br/>
 ▪ The percentage of the tasks assigned to that user that
-must still be completed
+must still be completed<br/>
 ▪ The percentage of the tasks assigned to that user that
-have not yet been completed and are overdue
+have not yet been completed and are overdue<br/>
  </ul><br/>
+
