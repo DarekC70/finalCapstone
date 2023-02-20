@@ -9,13 +9,15 @@
   Country, Code, Product, Cost, Quantity<br />
   This information is used in projcet.<br />
 4/ menu in the inventory file:<br />
-        so - Read shoe data/create shoe object;<br />
-        cds - Capture data shoe;<br />
-        va - Print the detailes of the shoe;<br />
-        lst - Shoe with the lowest stocke ==> to be re-stored;<br />
-        sc - Search shoe by the code;<br />
-        tvd - Display the total value for each item;<br />
-        hq - Shoe with the highest quantity ==> it has to sel<br />
+<ul>
+       <li>so - Read shoe data/create shoe object;</li><br />
+        <li>cds - Capture data shoe;</li><br />
+        <li>va - Print the detailes of the shoe;</li><br />
+        <li>lst - Shoe with the lowest stocke ==> to be re-stored;</li><br />
+        <li>sc - Search shoe by the code;</li><br />
+        <li>tvd - Display the total value for each item;</li><br />
+        <li>hq - Shoe with the highest quantity ==> it has to sel</li><br />
+  </ul>
         
  Option so - Read shoe data/create shoe object - This function open the file<br />
             inventory.txt and read the data from this file, then create<br /> a
