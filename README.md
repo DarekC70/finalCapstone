@@ -2,13 +2,15 @@
 
 # Project name : "inventory"<br />
 # The aim of the project is to provide a shoe wholesaler service<br />
-***The project:<br />
-1/ The project was made using object-oriented programming (OOP) in python<br />
-2/ The main file used in the project is inventory complete.py.<br />
-3/ The file uses the inventory.txt - text file:<br />
-  Country, Code, Product, Cost, Quantity<br />
-  This information is used in projcet.<br />
-4/ menu in the inventory file:<br />
+# The project:<br />
+<ol>
+  <li>The project was made using object-oriented programming (OOP) in python</li><br />
+  <li>The main file used in the project is inventory complete.py.</li><br />
+<li>The file uses the inventory.txt - text file:<br />
+  <li>Country, Code, Product, Cost, Quantity</li><br />
+  This information is used in projcet.</li><br />
+<li>menu in the inventory file:</li><br />
+</ol>
 <ul>
        <li>so - Read shoe data/create shoe object;</li><br />
         <li>cds - Capture data shoe;</li><br />
