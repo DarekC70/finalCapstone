@@ -5,12 +5,13 @@ The project:
 The project was made in pythonthe, which uses lists, strings and function definitions.<br />
 The main file used in the project is task_manager_complete.py.<br />
 
-The file uses the tasks.txt and user.txt- text files:<br/>
+The file uses the tasks.txt and user.txt- text files:
 <ul> tasks.txt contains a list of the tasks;<br/>
      user.txt contains a luser.txt contains a list of usernames and their passwords;<br/>
     This information is used in projcet.<br/>
   <ul/>
-*** menu in the inventory file:
+     <br/>
+ menu in the inventory file:
 
 so - Read shoe data/create shoe object;
 
