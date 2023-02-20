@@ -33,7 +33,7 @@ tracked using the task_manager.py.<br/>
 ▪ The total number of uncompleted tasks.<br/>
 ▪ The total number of tasks that haven’t been completed and
 that are overdue<br/>
-     The percentage of tasks that are incomplete.<br/>
+▪ The percentage of tasks that are incomplete.<br/>
 ▪ The percentage of tasks that are overdue.<br/>
      </ul> <br/>
 <li> user_overview.txt should contain:</li><br/>
@@ -52,4 +52,5 @@ must still be completed<br/>
 ▪ The percentage of the tasks assigned to that user that
 have not yet been completed and are overdue<br/>
  </ul><br/>
-
+<p>Option: ds - display statistics - The option only for the administrator - the menu option that allows to display statistics so that<br/>
+the reports generated are read from task_overview.txt and user_overview.txt and displayed on the screen<br/>
