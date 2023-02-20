@@ -2,15 +2,15 @@
 # Project name : "task manager"
 # The aim of the project is to create a file that allows you to manage tasks and people in the company.<br />
 The project:
-The project was made using object-oriented programming (OOP) in python
+The project was made in pythonthe, which uses lists, strings and function definitions.<br />
+The main file used in the project is task_manager_complete.py.<br />
 
-The main file used in the project is inventory complete.py.
-
-The file uses the inventory.txt - text file:
-Country, Code, Product, Cost, Quantity
-This information is used in projcet.
-
-menu in the inventory file:
+The file uses the tasks.txt and user.txt- text files:<br/>
+<ul> tasks.txt contains a list of the tasks;<br/>
+     user.txt contains a luser.txt contains a list of usernames and their passwords;<br/>
+    This information is used in projcet.<br/>
+  <ul/>
+*** menu in the inventory file:
 
 so - Read shoe data/create shoe object;
 
